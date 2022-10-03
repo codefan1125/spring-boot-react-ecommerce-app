@@ -2,8 +2,14 @@
 eCommerce application based on the microservices architecture built using Spring Boot and ReactJS.
 
 **Screens**
-## OUR SERVICES
-![alt text](https://github.com/codefan1125/spring-boot-react-ecommerce-app/blob/main/Screenshot_1.png?raw=true)
+## Logo
+![alt text](https://github.com/codefan1125/spring-boot-react-ecommerce-app/blob/master/Screenshot_1.png?raw=true)
+## Cart list
+![alt text](https://github.com/codefan1125/spring-boot-react-ecommerce-app/blob/master/Screenshot_2.png?raw=true)
+## Sign
+![alt text](https://github.com/codefan1125/spring-boot-react-ecommerce-app/blob/master/Screenshot_3.png?raw=true)
+## Carting
+![alt text](https://github.com/codefan1125/spring-boot-react-ecommerce-app/blob/master/Screenshot_4.png?raw=true)
 
 **DEMO**
 
